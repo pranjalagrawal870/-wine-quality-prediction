@@ -1,4 +1,3 @@
-# wine-quality-prediction
 # Wine Quality Prediction
 
 A supervised machine learning project that predicts wine quality ratings using physicochemical properties of wine samples.
